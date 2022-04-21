@@ -1,3 +1,20 @@
+/**
+ * @file Automatic_DoorSensor
+ * @author BALAJI G
+ * @brief header file for Automatic_DoorSensor are connected to AVR328 MCU GPIO Pin
+ * @version 0.1
+ * @date 2022-04-21
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
+/**
+
+
+
+
+
 #define F_CPU 8000000UL
 #include <avr/io.h>
 #include <stdio.h>
