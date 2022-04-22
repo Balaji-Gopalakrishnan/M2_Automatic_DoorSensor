@@ -49,9 +49,11 @@ so i use switch incase of using the PIR Sensor.
 ![](https://user-images.githubusercontent.com/74197288/164708532-1d550a97-b038-409b-bf44-1d52c17e6a5c.png)
 
 
+
 # VOLTMETER
  
  * Voltmeter which is also known as voltage meter is an instrument that measures the voltage or potential difference among two points of an electronic or electrical circuit. Usually, the voltmeter is used for Alternating Current (AC) circuits or Direct Current (DC) circuits.
+
 
 
 
@@ -67,12 +69,15 @@ so i use switch incase of using the PIR Sensor.
 
 
 
+
 # SWITCH 
  
  
 * switch is a device used to make or break a connection in a circuit so you an turn power on and off to something, or a change in attitude or policy. An example of a switch is the switch on the wall you use to turn your light on and off.
 
 *  switch is an electrical component that can disconnect or connect the conducting path in an electrical circuit, interrupting the electric current or diverting it from one conductor to another.
+
+
 
 
 
@@ -84,10 +89,13 @@ so i use switch incase of using the PIR Sensor.
 * A device that has electrical resistance and that is used in an electric circuit for protection, operation, or current control.
 
 
+
 # BUZZER 
 
 * The buzzer is a sounding device that can convert audio signals into sound signals. It is usually powered by DC voltage.
 * Buzzer is a "Simple Actuator".
+
+
 
 
 # FIXED VOLT 
@@ -101,9 +109,17 @@ so i use switch incase of using the PIR Sensor.
 
 
 
+
+
+
+
+
 # WORKING PRINCIPLE :
 
 After wiring and connecting all of the devices and connecting them to the switch,check all of the necessary setups to see if anything is missing. Following the connection setup, In the next step is to submit/upload the code to the microcontroller and power up the circuit. After upload the code,press the simulatation button once the system is turns ON,press the fixed volt to turn on.when the switch is open the led starts blinking which denotes the door is opened and when the switch is closed the buzzer turns on and make a sound which denotes the door is closed.
+
+
+
 
 
 
