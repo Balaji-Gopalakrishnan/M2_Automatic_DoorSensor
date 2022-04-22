@@ -4,7 +4,7 @@
 
 
 
-# BADGES
+# Badges 
 
 
 # Code Grade ![code grade](https://api.codiga.io/project/32949/status/svg)
