@@ -40,8 +40,10 @@ Automatic door sensor as the name suggest , the sensor that detects when the doo
 
 
 
-NOTE : My project is adout automatic door sensor in my project i implement the switch instead of using PIR Sensor,because in SimulIDE platform there is no available of the PIR Sensor. 
-so i use switch incase of using the PIR Sensor. 
+* NOTE : 
+
+  My project is adout automatic door sensor in my project i implement the switch instead of using PIR Sensor,because in SimulIDE platform there is no available of the   PIR Sensor. 
+  So i use switch incase of using the PIR Sensor. 
 
 
  
