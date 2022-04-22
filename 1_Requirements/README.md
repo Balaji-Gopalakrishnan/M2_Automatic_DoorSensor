@@ -31,6 +31,12 @@ so i use switch incase of using the PIR Sensor.
 
 
 
+# SOFTWARE USED :
+
+* SimulIDE
+* Visual Studio
+
+
 
 # DESCRIPTION :
 
