@@ -1,12 +1,13 @@
 # HARDWARE REQUIREMENTS :
 
 
-1) Ram 512MB or higher.
-2) Minimum 10MB hard disk space.
+1) Ram 2GB or higher.
+
+2) Minimum 250GB hard disk space.
+
 3) Intel/AMD powered system.
-4) Processor speed 1.2 GHZ.
 
-
+4) Processor speed 2.0 GHZ or higher
 
 
 
