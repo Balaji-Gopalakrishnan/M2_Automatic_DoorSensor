@@ -22,4 +22,7 @@
 # Cppcheck Analysis [![Cppcheck Analysis](https://github.com/Balaji-Gopalakrishnan/M2_Automatic_DoorSensor/actions/workflows/Cppcheck_analaysis.yml/badge.svg)](https://github.com/Balaji-Gopalakrishnan/M2_Automatic_DoorSensor/actions/workflows/Cppcheck_analaysis.yml)
 
 
+# Build Linux [![Build-Linux](https://github.com/Balaji-Gopalakrishnan/M2_Automatic_DoorSensor/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/Balaji-Gopalakrishnan/M2_Automatic_DoorSensor/actions/workflows/Build%20on%20Linux.yml)
+
+
 
