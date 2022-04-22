@@ -1,4 +1,6 @@
-# Hardware Requirements:-
+# HARDWARE REQUIREMENTS :
+
+
 1) Ram 512MB or higher.
 2) Minimum 10MB hard disk space.
 3) Intel/AMD powered system.
