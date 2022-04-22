@@ -87,7 +87,7 @@ After wiring and connecting all of the devices and connecting them to the switch
 
  # BUZZER ON MODE :
 
- * When the switch is closed the led gets turn off and buzzer turns on and indicates that the door is closed.
+ * When the switch is closed the led  turn OFF and buzzer gets turns ON and indicates that the door is closed.
  * I used the switch instead of using PIR Sensor.
 
 
