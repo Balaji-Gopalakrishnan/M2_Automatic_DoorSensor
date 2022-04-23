@@ -1,1 +1,9 @@
+# ABSTRACT : 
 
+
+
+An Automatic Door Opener System is a simple project based on PIR Sensor and ATMEGA328 Microcontroller , which automatically opens and closes the door by detecting a person or object.
+
+
+
+You might have seen Automatic Door Opener Systems at shopping malls, cinemas, hospitals etc. where, as soon as a person approaches the door (at about 2 or 3 feet), the door automatically slides open. And after some time (about 5 to 10 seconds), the door closes by sliding in the reverse direction.
