@@ -120,6 +120,14 @@ After wiring and connecting all of the devices and connecting them to the switch
 
 
 
+# APPLICATIONS : 
+
+
+* ATMEGA328 Microcontroller based Automatic Door Opener System is a very useful project as it enables you to understand the concept of such automatic door opener   systems and how they work.
+* These systems are already being used in many places like malls, theatres and hospitals.
+* You can implement this ATMEGA328 Microcontroller based project at you home in Garage Door Openers, toilet cover openers, Office door openers, etc.  
+
+
 
 
 
