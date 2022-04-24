@@ -34,7 +34,7 @@
 
 
 
-Automatic door sensor as the name suggest , the sensor that detects when the door needs to open. When the sensor detects a cue , it then the signal to the door    operating mechanism. After receiving that signal , the mechanism opens the door. Most of the automatic door sensor PIR Sensor is used. The PIR sensor is used to open or close the door automatically which senses the infrared energy produced by the human body,the IR energy sensed by the PIR Sensor changes and activates the sensor tovopen the door or close the door automatically.
+Automatic door sensor as the name suggest , the sensor that detects when the door needs to open. When the sensor detects a cue , it then the signal to the door    operating mechanism. After receiving that signal , the mechanism opens the door. Most of the automatic door sensor PIR Sensor is used. The PIR sensor is used to open or close the door automatically which senses the infrared energy produced by the human body,the IR energy sensed by the PIR Sensor changes and activates the sensor to open the door or close the door automatically.
  
  
 
